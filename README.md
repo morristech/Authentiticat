@@ -2,7 +2,7 @@
 Authentication Protocol Exploitation Suite
 
 # Note
-Please come back soon, tool making is in progress........ 
+Please come back soon, tool making is in progress........ Will update once a week! 
 
 # What it does?
 1) Detect the authentication protocol(s) in use for connection
